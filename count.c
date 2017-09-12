@@ -1,5 +1,5 @@
 #include<stdio.h>
-vod main()
+void main()
 {
 int n;
 int count=0;
