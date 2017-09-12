@@ -2,10 +2,10 @@
 void main()
 {
 int year;
-scanf("%d",year);
+scanf("%d",&year);
 if((year)%4==0)
 {
-print("leap year");
+printf("leap year");
 }
 else
 {
